@@ -1,0 +1,12 @@
+data/*
+!data/README.md
+*.csv
+*.csv.gz
+*.parquet
+*.sql
+!sql/schema.sql
+.env
+.env.*
+__pycache__/
+.ipynb_checkpoints/
+.venv/
