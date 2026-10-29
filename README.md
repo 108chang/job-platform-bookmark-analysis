@@ -1,5 +1,9 @@
 # 채용 플랫폼 북마크 이후 지원 행동 분석
 
+[분석 결과 대시보드 열기](https://108chang.github.io/job-platform-bookmark-analysis/dashboard.html) · [HTML 파일 다운로드](dashboard.html)
+
+대시보드에서 집계 지표를 비교하고 차트의 원본 집계표를 확인할 수 있습니다. HTML 파일은 다운로드한 뒤 브라우저에서도 열 수 있습니다.
+
 **2022–2023년 채용 플랫폼의 공고·지원·북마크·URL 로그를 연결해 SW 개발 직무의 지원 쏠림과 북마크 이후 행동을 분석한 팀 프로젝트입니다.**
 
 코드잇 스프린트 데이터 분석가 16기 · Part 2 중급 1 · R-AMEN · 최종 보고서 2026.08.11
@@ -154,5 +158,6 @@ job-platform-bookmark-analysis/
 
 - [따릉이 이용 패턴 — 대용량 데이터 정제와 EDA](https://github.com/108chang/seoul-bike-usage-analysis)
 - [공유오피스 무료체험 — 행동 군집화와 모델 비교](https://github.com/108chang/shared-office-trial-clustering)
+
 
 
